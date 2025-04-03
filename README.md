@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sirbu Iulian-Pavel</h1>
-<h3 align="center">Full Stack Web Developer from Moldova, with a bias in Front-end</h3>
+<h3 align="center">Front-End Developer</h3>
 
 - 🌱 I’m currently learning **Everything needed to become a better developer**
 
