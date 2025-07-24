@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sirbu Iulian-Pavel</h1>
 <h3 align="center">Front-End Developer</h3>
 
-- 🌱 I’m currently learning **Everything needed to become a better developer**
+- 🌱 I’m currently learning **Back-End Development with NodeJS and ExpressJS**
 
-- 💬 Ask me about **React, SCSS, UI, UX, ExpressJS, NodeJS**
+- 💬 Ask me about **React, SCSS, UI, UX**
 
 - 📫 How to reach me **sirbuiulianpavel@gmail.com**
 
